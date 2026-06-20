@@ -12,3 +12,5 @@ A guide on usage is included below
 FILES: Used for uploading, downloading and manipulating files and file access from within the program.
 LISTS: Used for manipulating 1 dimensional lists and storage structures.
 MATRICIES: Used for manipulating 2 dimensional lists and storage structures. 
+PERLIN: Used for generating and manipulating random noise.
+IMAGEHANDLER: Used for manipulating images.
